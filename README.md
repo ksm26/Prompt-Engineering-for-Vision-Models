@@ -1,6 +1,6 @@
 # 📸 [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/)
 
-🔍 Explore the "Prompt Engineering for Vision Models" course, designed to enhance your understanding of prompt engineering techniques in both text and vision models. Led by Abby Morgan, Jacques Verré, and Caleb Kaiser, all experienced Machine Learning Engineers at Comet, this course will empower you to prompt and fine-tune various vision models effectively.
+🔍 Explore the "Prompt Engineering for Vision Models" course, designed to enhance your understanding of prompt engineering techniques in both text and vision models. This course will empower you to prompt and fine-tune various vision models effectively.
 
 ## Course Summary
 In this course, you'll delve into the realm of prompt engineering for vision models, exploring techniques to prompt models like Meta's Segment Anything Model (SAM), OWL-ViT, and Stable Diffusion 2.0. Here's what you'll learn:
